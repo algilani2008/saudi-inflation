@@ -81,3 +81,9 @@ sqlite3 -header -column cpi.db < sql/03_analysis.sql
 pip install pandas openpyxl
 python build.py
 ```
+
+## الرخصة | License
+
+الكود برخصة [MIT](LICENSE). أما البيانات والمصادر الخارجية فتبقى على شروطها الأصلية.
+
+The code is under the [MIT License](LICENSE). Data and third-party sources keep their own terms.
